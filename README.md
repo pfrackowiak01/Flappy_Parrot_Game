@@ -4,7 +4,7 @@ Game Jolt profile: https://gamejolt.com/@SkipperFox
 
 Download my games: https://gamejolt.com/@SkipperFox/games
 
-Flappy Parrot Game: https://gamejolt.com/games/doodlejump/807497](https://gamejolt.com/games/flappyparrot/817512
+Flappy Parrot Game: https://gamejolt.com/games/flappyparrot/817512
 
 ---
 Simple Game Project in Unity created by Paweł Frąckowiak (2023)
