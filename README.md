@@ -27,3 +27,5 @@ The goal of the game Flappy Parrot is to navigate a bird through a series of pip
 Jump:               Spacebar / LMB
 
 Reset Highscore:    R
+
+---
