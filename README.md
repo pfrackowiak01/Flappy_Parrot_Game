@@ -7,7 +7,8 @@ Download my games: https://gamejolt.com/@SkipperFox/games
 Flappy Parrot Game: https://gamejolt.com/games/flappyparrot/817512
 
 ---
-Simple Game Project in Unity created by Paweł Frąckowiak (2023)
+
+###Simple Game Project in Unity created by Paweł Frąckowiak (2023)
 
 #### A few words from the author:
 
