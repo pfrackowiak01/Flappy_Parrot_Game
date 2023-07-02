@@ -19,6 +19,8 @@ This is my first game created in Unity. It is a fangame inspired by the popular 
 
 The goal of the game Flappy Parrot is to navigate a bird through a series of pipes without colliding with them. The player needs to press spacebar or click left mouse button to make the bird flap its wings and ascend, while gravity pulls it down. The objective is to achieve the highest score possible by successfully maneuvering the bird through the narrow gaps between the pipes. The game ends if the bird collides with any obstacle (pipes or screen borders).
 
+---
+
 ## CONTROLS
 
 Jump:               Spacebar / LMB
